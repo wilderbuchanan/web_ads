@@ -1,0 +1,38 @@
+
+{
+    "name": "Bambu Labs",
+    "logo": "logo.png",
+    "logo-link": "https://z4g07sa50j.execute-api.us-east-1.amazonaws.com/production/track?id=8f2gf1w5un",
+    "ads": {
+        "square": [
+        {
+            "image": "square/1.png",
+            "link": "https://z4g07sa50j.execute-api.us-east-1.amazonaws.com/production/track?id=hvp0e3b0ps",
+            "title": "Bambu Lab H2D"
+        },
+        {
+            "image": "square/2.png",
+            "link": "https://z4g07sa50j.execute-api.us-east-1.amazonaws.com/production/track?id=8gno0qywl5",
+            "title": "Bambu Lab P1S 3D Printer"
+        },
+        {
+            "image": "square/3.png",
+            "link": "https://z4g07sa50j.execute-api.us-east-1.amazonaws.com/production/track?id=2q6lkvx231",
+            "title": "Bambu Lab A1 Mini 3D Printer"
+        }
+        ],
+        "wide": [
+        {
+            "image": "wide/1.png",
+            "link": "https://z4g07sa50j.execute-api.us-east-1.amazonaws.com/production/track?id=k8q2x7zmwo",
+            "title": "Impact Resistant Filament"
+        },
+        {
+            "image": "wide/2.png",
+            "link": "https://z4g07sa50j.execute-api.us-east-1.amazonaws.com/production/track?id=pdp9tdqqi1",
+            "title": "Filament Comparison Tool"
+        }
+        ]
+    }
+ }
+      

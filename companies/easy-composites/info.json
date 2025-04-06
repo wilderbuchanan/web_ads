@@ -1,0 +1,38 @@
+
+{
+    "name": "Easy Composites",
+    "logo": "logo.png",
+    "logo-link": "https://z4g07sa50j.execute-api.us-east-1.amazonaws.com/production/track?id=5qcg2qb136",
+    "ads": {
+        "square": [
+        {
+            "image": "square/1.png",
+            "link": "https://z4g07sa50j.execute-api.us-east-1.amazonaws.com/production/track?id=jpl2eozn6n",
+            "title": "Forged Carbon Fibre Development Kit"
+        },
+        {
+            "image": "square/2.png",
+            "link": "https://z4g07sa50j.execute-api.us-east-1.amazonaws.com/production/track?id=w2nb6ge5gc",
+            "title": "High Strength Carbon Fibre Sheet"
+        },
+        {
+            "image": "square/3.png",
+            "link": "https://z4g07sa50j.execute-api.us-east-1.amazonaws.com/production/track?id=vlpxceidly",
+            "title": "240g 2x2 Twill 3k Carbon Fibre Cloth"
+        }
+        ],
+        "wide": [
+        {
+            "image": "wide/1.png",
+            "link": "https://z4g07sa50j.execute-api.us-east-1.amazonaws.com/production/track?id=095xwoa5gd",
+            "title": "Making A Composite Mould From A 3D Print"
+        },
+        {
+            "image": "wide/2.png",
+            "link": "https://z4g07sa50j.execute-api.us-east-1.amazonaws.com/production/track?id=fa1mp4rb7a",
+            "title": "How To Compression Mould Forged Carbon Fibre Components"
+        }
+        ]
+    }
+    }
+      
