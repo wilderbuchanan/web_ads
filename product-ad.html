@@ -10,7 +10,7 @@ const baseRawURL = `https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME
 
 // Fetch list of active companies from active_companies.json
 async function fetchActiveCompanies() {
-  const res = await fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/main/active_companies.json`);
+  const res = await fetch(`https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/main/active-companies.json`);
   if (!res.ok) throw new Error('Failed to fetch active companies list');
   return await res.json();
 }
